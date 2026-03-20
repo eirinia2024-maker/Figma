@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import puzzleImg from "assets/e62482af7d539e8c5f10e1df6a3e538f5f22c9b4.png";
+import puzzleImg from "../assets/e62482af7d539e8c5f10e1df6a3e538f5f22c9b4.png";
 import { CheckCircle2 } from "lucide-react";
 
 const features = [
