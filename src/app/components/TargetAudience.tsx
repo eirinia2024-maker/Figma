@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import audienceImg from "../assets/785cb3ea324338bb7276fb7afd39842602ae2696.png";
+import audienceImg from "../assets/audience.png";
 import { Baby, GraduationCap, Home, BookOpen } from "lucide-react";
 
 const audiences = [
